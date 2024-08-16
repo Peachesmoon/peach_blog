@@ -14,12 +14,12 @@ export default siteConfig({
   author: 'WelsonPeach',
 
   // open graph metadata (optional)
-  description: '我不知道该写什么',
+  description: '',
 
   // social usernames (optional)
-  twitter: 'None',
-  github: 'WelsonPeach',
-  linkedin: 'fisch2',
+  // twitter: 'None',
+  github: 'Welsonpeaches',
+  // linkedin: '',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
