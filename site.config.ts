@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Peach s Blog',
   domain: 'blog.peaches.eu.org',
-  author: 'WelsonPeach',
+  author: '02_NED-GENESIS-V2(桃子)',
 
   // open graph metadata (optional)
   description: '',
