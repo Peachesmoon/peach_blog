@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Peach'sBlog',
+  name: 'Peach s Blog',
   domain: 'blog.peaches.eu.org',
   author: 'WelsonPeach',
 
